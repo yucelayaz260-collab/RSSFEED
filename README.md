@@ -1,5 +1,6 @@
 # RSSFEED
 I’m building an RSS reader just as a hobby. I left it at the alpha stage. If I can, I’ll share the code; I wrote it in C#. code below (ı am using google Translate)
+install link https://drive.google.com/file/d/1CQWGuB-T9C3ymiAJtIcvY_mJK8PKy2vQ/view?usp=sharing
 
 using System;
 using System.Collections.Generic;
